@@ -19,7 +19,7 @@ jobs:
           distribution: 'temurin'
 
       - name: make application.yml
-        run : echo "hello world"
+        run : echo "hello world!"
 #        run: |
 #          # create application.yml
 #          cd ./src/main
